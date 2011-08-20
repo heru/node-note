@@ -1,3 +1,9 @@
 node-note
+<<<<<<< HEAD
 
 this is git project contains how to, tips and trick about nodejs
+=======
+=========
+
+this git project contains how to, tips and tricks about node.js
+>>>>>>> cc8826b667cb2a135e89beae410f81dbd3ba0b15
